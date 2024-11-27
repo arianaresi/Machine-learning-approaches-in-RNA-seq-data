@@ -29,19 +29,20 @@ Contains:
 - 2.1 Problem Formulation
 - 2.2 Required Model Implementation
 - 2.3 Feature Engineering
-
   
+[Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part2/ModelImplementation.md)) is a folder containing scripts and explanations of the outputs of each of the steps mentioned above.
 
-It is a folder containing scripts and explanations of the outputs of each of the steps mentioned below, you can check out it in the [Trimming directory](https://github.com/arianaresi/RNA-seq-Project/tree/main/Trimming).
+The required files for reproducibility are in [Part 2 folder](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/tree/main/Part2)
 
 **Part 3: Literature Review**
 
-It is a folder containing scripts and explanations of the outputs of each of the steps mentioned below, you can check out it in the [Alignment](https://github.com/arianaresi/RNA-seq-Project/tree/main/Alignment) directory.
+Contains:
 
-   - [Definition and workflow](https://github.com/arianaresi/RNA-seq-Project/blob/main/Alignment/Definition%20and%20workflow.md)
-   - [STAR index](https://github.com/arianaresi/RNA-seq-Project/blob/main/Alignment/STAR_index.md)
-   - [STAR alignment](https://github.com/arianaresi/RNA-seq-Project/blob/main/Alignment/STAR_alignment.md)
-  
+- 3.1 Primary Literature Analysis
+- 3.2 Methods Comparison
+
+[Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part2/ModelImplementation.md)) is a folder containing the literature review.
+
 **Part 4: Implementation and Results**
 
 The complete code diretory can be found [here](https://github.com/arianaresi/RNA-seq-Project/tree/main/R%20analysis).
