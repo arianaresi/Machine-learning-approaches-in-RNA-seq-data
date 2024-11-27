@@ -17,20 +17,22 @@ Contains:
 - 1.1 Dataset Documentation
 - 1.2 Exploratory Data Analysis
 - 1.3 Biological Relevance
-- 
+  
 [Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part1/DataSelectionAndEDA.md) is a folder containing scripts and explanations of the outputs of each of the steps mentioned above.
 
 And the required files for reproducibility are in [Part 1 folder](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part1).
 
-**Part 2: Machine Learning Approach**
+### Part 2: Machine Learning Approach**
+
+Contains:
+
+- 2.1 Problem Formulation
+- 2.2 Required Model Implementation
+- 2.3 Feature Engineering
+
+  
 
 It is a folder containing scripts and explanations of the outputs of each of the steps mentioned below, you can check out it in the [Trimming directory](https://github.com/arianaresi/RNA-seq-Project/tree/main/Trimming).
-
-In addition, each of the specific steps during the Trimming process can be reviewed by clicking on the desired title:
-
-   - [Results](https://github.com/arianaresi/RNA-seq-Project/blob/main/Trimming/Trimming_code_and_results.md)
-   - [Fastqc](https://github.com/arianaresi/RNA-seq-Project/blob/main/Trimming/FastQC_trimmed.md)
-   - [Multiqc](https://github.com/arianaresi/RNA-seq-Project/blob/main/Trimming/MultiQC_trimmed.md)
 
 **Part 3: Literature Review**
 
