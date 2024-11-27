@@ -10,15 +10,17 @@ Professors: Dr. Renan Escalante
 
 ## Overview
 
-**Part 1: Dataset Selection and Initial Analysis**
+### Part 1: Dataset Selection and Initial Analysis
 
-It is a folder containing scripts and explanations of the outputs of each of the steps mentioned below, you can check out it [here](https://github.com/arianaresi/RNA-seq-Project/tree/main/Raw%20data).
+Contains:
 
-In addition, each of the specific steps during this process can be reviewed by clicking on the desired title:
+- 1.1 Dataset Documentation
+- 1.2 Exploratory Data Analysis
+- 1.3 Biological Relevance
+- 
+[Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part1/DataSelectionAndEDA.md) is a folder containing scripts and explanations of the outputs of each of the steps mentioned above.
 
-- [Download](https://github.com/arianaresi/RNA-seq-Project/blob/main/Raw%20data/Download.md)
-- [Fastqc](https://github.com/arianaresi/RNA-seq-Project/blob/main/Raw%20data/FastQC_RawData.md)
-- [Multiqc](https://github.com/arianaresi/RNA-seq-Project/blob/main/Raw%20data/MultiQC_RawData.md)
+And the required files for reproducibility are in [Part 1 folder](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part1).
 
 **Part 2: Machine Learning Approach**
 
