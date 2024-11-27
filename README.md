@@ -51,5 +51,6 @@ Contains:
 - 4.2 Results Analysis
 - 4.3 Biological Insights
 
-[Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part3/LiteratureReview.md) is a file containing the literature review.
+[Here](https://github.com/arianaresi/Machine-learning-approaches-in-RNA-seq-data/blob/main/Part4/ImplementationAndResults.md) is a file containing the results of the project.
 
+The completed project is located in a .pdf extension available [here]()
